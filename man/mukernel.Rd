@@ -16,13 +16,15 @@ mukernel(X, Z, Y, betas.n, betas.v, gammas.v, bpri, Bpri)
   \item{Bpri}{a matrix with the initial values of the variance of gamma}
 }
 \details{
-Evaluate the probability of a beta parameter from the probability density function defined by old parameters, according with the model proposed by Cepeda and Gamerman(2005). 
+Evaluate the probability of a beta parameter from the probability density function defined by old parameters, according with the model proposed by Cepeda(2001) and Cepeda and Gamerman(2005). 
 }
 \value{
  \item{value}{a matrix with the probability for the beta parameter from the probability density function defined by old parameters}
 }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. 
+//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf.
+http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
 }
 \author{
@@ -33,7 +35,7 @@ Evaluate the probability of a beta parameter from the probability density functi
  Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},   
  Ricardo Duplat \email{rrduplatd@unal.edu.co},    
  Luis Villaraga \email{lfvillarragap@unal.edu.co},
- Edilberto Cepeda Cuervo \email{ecepedac@unal.edu.co}    
+ Edilberto Cepeda-Cuervo \email{ecepedac@unal.edu.co}    
 }
 \examples{
 library(betareg)

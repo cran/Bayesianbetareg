@@ -16,13 +16,15 @@ gammakernel(X, Z, Y, gammas.n, betas.v, gammas.v, gpri, Gpri)
   \item{Gpri}{a matrix with the initial values of the variance of gamma}
 }
 \details{
-Evaluate the probability of a gamma parameter from the probability density function defined by  old parameters, according with the model proposed by Cepeda and Gamerman(2005). 
+Evaluate the probability of a gamma parameter from the probability density function defined by  old parameters, according with the model proposed by Cepeda(2001) and Cepeda and Gamerman(2005). 
 }
 \value{ 
  \item{value}{a vector with the probability  for the gamma parameter from the probability density function defined by old parameters}
  }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. 
+//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf.
+http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
 }
 \author{

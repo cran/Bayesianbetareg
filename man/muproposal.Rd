@@ -15,13 +15,15 @@ muproposal(Y,X,Z,betas,gammas,bpri,Bpri)
  \item{Bpri}{a matrix with the initial values of the variance of beta}
 }
 \details{
-Generate a proposal for the beta parameter according to the model proposed by Cepeda and Gamerman(2005). 
+Generate a proposal for the beta parameter according to the model proposed by Cepeda(2001) and Cepeda and Gamerman(2005). 
 }
 \value{
  \item{value}{a matrix with the proposal for beta}
  }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. 
+//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf
+http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
 }
 \author{

@@ -20,7 +20,7 @@ Daniel Jaimes \email{dajaimesc@unal.edu.co},
  Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},  
  Ricardo Duplat \email{rrduplatd@unal.edu.co},    
  Luis Villaraga \email{lfvillarragap@unal.edu.co}, 
- Edilberto Cepeda Cuervo \email{ecepedac@unal.edu.co} 
+ Edilberto Cepeda-Cuervo \email{ecepedac@unal.edu.co} 
 }
 \examples{
 library(betareg)

@@ -1,7 +1,7 @@
 \name{Bayesianbetareg}
 \alias{Bayesianbetareg}
 \title{Bayesianbetareg}
-\description{Function to do Bayesian Beta Regression}
+\description{Function to do Bayesian Beta Regression: joint mean and precision modeling}
 \usage{
 Bayesianbetareg(Y, X, Z, nsim, bpri, Bpri, gpri, Gpri, burn, jump, graph1, graph2)
 }
@@ -20,8 +20,8 @@ Bayesianbetareg(Y, X, Z, nsim, bpri, Bpri, gpri, Gpri, burn, jump, graph1, graph
   \item{graph2}{if it is TRUE present the graph of the chains with jump and burn. }
  }
 \details{
-The bayesian beta regression allow the joint modelling of mean and variance of a beta distributed variable, 
-as proposed Cepeda (2001), where the mean had a logit link and the variance had a logaritmic link. 
+The bayesian beta regression allow the joint modelling of mean and precision of a beta distributed variable, 
+as is proposed in Cepeda (2001), with logit link for the mean  and  logarithmic for the precision. 
 }
 \value{
  object of class bayesbetareg with:
@@ -40,11 +40,15 @@ as proposed Cepeda (2001), where the mean had a logit link and the variance had 
 }
 \references{
 1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. 
-Universidade Federal do Río do Janeiro.http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEM20DA20VARIABILIDADE.pdf
+Universidade Federal do Río do Janeiro.
+//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEM20DA20VARIABILIDADE.pdf.
+http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
+//
 3.Cepeda, E. and Garrido, L. (2011). Bayesian beta regression models: joint mean and precision modeling. Universidad Nacional
+//
 4.Cepeda, E. and Migon, H. and Garrido, L. and Achcar, J. (2012) Generalized Linear models with random effects in the two parameter exponential family. 
-Journal of Statistical Computation and Simulation. 1, 1 13
+Journal of Statistical Computation and Simulation. 1, 1 13.
 }
 \author{
  Daniel Jaimes \email{dajaimesc@unal.edu.co},
@@ -54,7 +58,7 @@ Journal of Statistical Computation and Simulation. 1, 1 13
  Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},   
  Ricardo Duplat \email{rrduplatd@unal.edu.co},    
  Luis Villaraga \email{lfvillarragap@unal.edu.co}, 
- Edilberto Cepeda Cuervo \email{ecepedac@unal.edu.co}        
+ Edilberto Cepeda-Cuervo \email{ecepedac@unal.edu.co}        
 }
 \keyword{Bayesian}
 \keyword{Metropolis Hastings}
