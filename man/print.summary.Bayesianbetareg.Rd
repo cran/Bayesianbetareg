@@ -13,12 +13,16 @@
 Print the summary Bayesian Beta Regression for joint modelling of mean and variance
 }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro.
-//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf.
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matematicas. 
+Universidade Federal do Rio do Janeiro.//
+//http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEM20DA20VARIABILIDADE.pdf//
 http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
+//
 3.Cepeda, E. and Garrido, L. (2011). Bayesian beta regression models: joint mean and precision modeling. Universidad Nacional
-4.Cepeda, E. and Migon, H. and Garrido, L. and Achcar, J. (2012) Generalized Linear models with random effects in the two-parameter exponential family. Journal of Statistical Computation and Simulation. 1, 1 13
+//
+4.Cepeda, E. and Migon, H. and Garrido, L. and Achcar, J. (2012) Generalized Linear models with random effects in the two parameter exponential family. 
+Journal of Statistical Computation and Simulation. 1, 1 13.
 }
 \author{
  Daniel Jaimes \email{dajaimesc@unal.edu.co},

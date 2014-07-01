@@ -39,8 +39,8 @@ as is proposed in Cepeda (2001), with logit link for the mean  and  logarithmic 
  \item{call}{Call.} 
 }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. 
-Universidade Federal do Río do Janeiro.
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matematicas. 
+Universidade Federal do Rio do Janeiro.
 //http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEM20DA20VARIABILIDADE.pdf.
 http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
@@ -54,6 +54,7 @@ Journal of Statistical Computation and Simulation. 1, 1 13.
  Daniel Jaimes \email{dajaimesc@unal.edu.co},
  Margarita Marin \email{mmarinj@unal.edu.co},
  Javier Rojas \email{jarojasag@unal.edu.co},
+ Hugo Andres Gutierrez Rojas \email{hugogutierrez@usantotomas.edu.co},
  Martha Corrales \email{martha.corrales@usa.edu.co},  
  Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},   
  Ricardo Duplat \email{rrduplatd@unal.edu.co},    

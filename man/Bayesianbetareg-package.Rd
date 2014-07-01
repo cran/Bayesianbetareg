@@ -14,8 +14,15 @@ LazyLoad: \tab yes\cr
 }
 }
 \author{
- Daniel Jaimes, Margarita Marin, Javier Rojas, Martha Corrales,  Maria Fernanda Zarate,  
- Ricardo Duplat,  Luis Villaraga, Edilberto Cepeda-Cuervo.
+ Daniel Jaimes \email{dajaimesc@unal.edu.co},
+ Margarita Marin \email{mmarinj@unal.edu.co},
+ Javier Rojas \email{jarojasag@unal.edu.co},
+ Hugo Andres Gutierrez Rojas \email{hugogutierrez@usantotomas.edu.co},
+ Martha Corrales \email{martha.corrales@usa.edu.co},  
+ Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},   
+ Ricardo Duplat \email{rrduplatd@unal.edu.co},    
+ Luis Villaraga \email{lfvillarragap@unal.edu.co}, 
+ Edilberto Cepeda-Cuervo \email{ecepedac@unal.edu.co}        
 }
 \keyword{package}
 

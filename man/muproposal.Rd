@@ -21,7 +21,7 @@ Generate a proposal for the beta parameter according to the model proposed by Ce
  \item{value}{a matrix with the proposal for beta}
  }
 \references{
-1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matemáticas. Universidade Federal do Río do Janeiro. 
+1. Cepeda C. E. (2001). Modelagem da variabilidade em modelos lineares generalizados. Unpublished Ph.D. tesis. Instituto de Matematicas. Universidade Federal do Rio do Janeiro. 
 //http://www.docentes.unal.edu.co/ecepedac/docs/MODELAGEMDAVARIABILIDADE.pdf
 http://www.bdigital.unal.edu.co/9394/.
 2.Cepeda, E. C. and Gamerman D. (2005). Bayesian Methodology for modeling parameters in the two-parameter exponential family. Estadistica 57, 93 105.
@@ -30,11 +30,12 @@ http://www.bdigital.unal.edu.co/9394/.
  Daniel Jaimes \email{dajaimesc@unal.edu.co},
  Margarita Marin \email{mmarinj@unal.edu.co},
  Javier Rojas \email{jarojasag@unal.edu.co},
+ Hugo Andres Gutierrez Rojas \email{hugogutierrez@usantotomas.edu.co},
  Martha Corrales \email{martha.corrales@usa.edu.co},  
- Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},  
- Ricardo Duplat \email{rrduplatd@unal.edu.co},   
- Luis Villaraga \email{lfvillarragap@unal.edu.co},
- Edilberto Cepeda Cuervo \email{ecepedac@unal.edu.co}        
+ Maria Fernanda Zarate \email{mfzaratej@unal.edu.co},   
+ Ricardo Duplat \email{rrduplatd@unal.edu.co},    
+ Luis Villaraga \email{lfvillarragap@unal.edu.co}, 
+ Edilberto Cepeda-Cuervo \email{ecepedac@unal.edu.co}        
 }
 \examples{
 library(betareg)
